@@ -37,5 +37,4 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_display: compact
+          plugin_achievements_threshold: A
